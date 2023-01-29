@@ -7,7 +7,9 @@ des données).
 Nous avons un tableau de données sur deux colonnes : la première
 correspond aux identifiants de transaction, la seconde aux noms des produits.
 Voici les premières lignes du fichier :
+
 ![Screenshot from 2023-01-29 15-58-47](https://user-images.githubusercontent.com/57904143/215335042-1cfd16ff-c9b5-4a3d-a564-22ade2b852c5.png)
+
 # Réseau des neurones
 Data Set :
 Nous allons utiliser le dataset “Iris Species” du Fisher's classic 1936 paper.
@@ -16,9 +18,10 @@ Iris_Virginica) avec 50 échantillons pour chaque type.
 Dans le fichier :
 Iris.csv
 Nous avons un fichier excel des jeux de données et qui contient six colonnes :
-la première correspond aux identifiants de chaque fleur, la seconde pour la![Screenshot from 2023-01-29 16-09-27](https://user-images.githubusercontent.com/57904143/215335729-843e33f4-0d9a-4368-98fa-a7f1da29a611.png)
+la première correspond aux identifiants de chaque fleur, la seconde pour la
 longueur des pétales en cm., la troisième pour la largeur des pétales et les
 autres pour les sébales ainsi qu’une dernière colonne qui contient l’espèce de
 la fleur.
 Voici les premières lignes du fichier :
-![Uploading Screenshot from 2023-01-29 16-09-27.png…]()
+
+![Screenshot from 2023-01-29 16-09-27](https://user-images.githubusercontent.com/57904143/215335729-843e33f4-0d9a-4368-98fa-a7f1da29a611.png)
